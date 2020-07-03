@@ -1,0 +1,11 @@
+C:\Users\S279YQ\developments\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\bin\Debug\WeatherData.dll
+C:\Users\S279YQ\developments\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\bin\Debug\WeatherData.pdb
+C:\Users\S279YQ\developments\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.csprojAssemblyReference.cache
+C:\Users\S279YQ\developments\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.csproj.CoreCompileInputs.cache
+C:\Users\S279YQ\developments\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.dll
+C:\Users\S279YQ\developments\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.pdb
+C:\Users\S279YQ\developments\linkedin-learning\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\bin\Debug\WeatherData.dll
+C:\Users\S279YQ\developments\linkedin-learning\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\bin\Debug\WeatherData.pdb
+C:\Users\S279YQ\developments\linkedin-learning\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.csproj.CoreCompileInputs.cache
+C:\Users\S279YQ\developments\linkedin-learning\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.dll
+C:\Users\S279YQ\developments\linkedin-learning\Ex_Files_Code_Clinic_C_Sharp\Ch01\04\Begin\WeatherData\obj\Debug\WeatherData.pdb
